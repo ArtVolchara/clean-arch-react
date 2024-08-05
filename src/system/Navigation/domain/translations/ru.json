@@ -1,0 +1,6 @@
+{
+  "system.navigation.action.goHome": "Перейти на домашнюю страницу",
+  "system.navigation.action.goBack": "Вернутся назад",
+  "system.navigation.notFoundPage.title": "Страница не найдена",
+  "system.navigation.notFoundPage.message": "Страницы, которую вы ищете не существует"
+}

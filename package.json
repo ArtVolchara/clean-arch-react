@@ -1,0 +1,63 @@
+{
+  "name": "clean-arch-template",
+  "version": "0.1.0",
+  "type": "module",
+  "babel": {
+    "bridges": [
+      "@babel/bridge-proposal-object-rest-spread"
+    ]
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@formatjs/intl": "^2.10.4",
+    "@mui/icons-material": "^5.16.6",
+    "@mui/material": "^5.16.6",
+    "@mui/x-data-grid": "6.0.1",
+    "@mui/x-date-pickers": "^6.19.5",
+    "@vitejs/plugin-react-swc": "^3.7.0",
+    "axios": "^1.7.3",
+    "formik": "^2.2.9",
+    "jwt-decode": "^3.1.2",
+    "luxon": "^3.4.4",
+    "mobx": "^6.3.2",
+    "mobx-react": "^7.2.0",
+    "notistack": "^2.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "browserslist": "^4.6.3",
+    "install": "^0.13.0",
+    "npm": "^10.8.2",
+    "typescript": "^5.5.4",
+    "vite": "^5.3.5"
+  }
+}

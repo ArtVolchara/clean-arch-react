@@ -1,0 +1,16 @@
+{
+  "system.httpRequest.request.mustBeHTTPCode": "Значение должно быть HTTP-кодом",
+  "system.httpRequest.error.status": "Статус",
+  "system.httpRequest.error.data": "Тело ошибки",
+
+  "system.httpRequest.request.failed.unavailable": "Сервер недоступен. Пожалуйста, обратитесь к администратору.",
+
+  "system.httpRequest.response.status": "Статус ответа",
+  "system.httpRequest.response?.data": "Тело ответа",
+
+  "system.httpRequest.response?.data.list.content": "Контент ответа",
+  "system.httpRequest.response?.data.list.number": "Число элементов",
+  "system.httpRequest.response?.data.list.size": "Размер элементов",
+  "system.httpRequest.response?.data.list.totalElements": "Всего элементов",
+  "system.httpRequest.response?.data.list.totalPages": "Всего страниц"
+}

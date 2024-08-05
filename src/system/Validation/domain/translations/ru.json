@@ -1,0 +1,10 @@
+{
+  "system.validation.error.empty": "Поле не должно быть пустым",
+  "system.validation.error.mustBeDateString": "Значение должно быть датой",
+  "system.validation.error.DdMmYyyyDateOnly": "Дата должна быть в формате dd.mm.yyyy",
+  "system.validation.error.onlyCIX8Mask": "Значение должно соответствовать маске CIXXXXXXXX",
+  "system.validation.error.only4XQXMask": "Значение должно соответствовать маске XXXXQX",
+  "system.validation.error.mustBeANumber": "Значение должно быть числом",
+  "system.validation.error.mustBeAPositiveNumber": "Значение должно быть положительным числом",
+  "system.validation.error.mustBeADigitString": "Значение должно быть числовым"
+}

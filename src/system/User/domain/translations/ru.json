@@ -1,0 +1,14 @@
+{
+  "system.user.user.surName": "Фамилия",
+  "system.user.user.surName.placeholder": "Введите фамилию",
+  "system.user.user.name": "Имя",
+  "system.user.user.name.placeholder": "Введите имя",
+  "system.user.user.middleName": "Отчество",
+  "system.user.user.middleName.placeholder": "Введите отчество",
+  "system.user.user.userName": "Логин",
+  "system.user.user.userName.placeholder": "Введите логин",
+  "system.user.user.password": "Пароль",
+  "system.user.user.password.placeholder": "Введите пароль",
+  "system.user.user.privileges": "Привелегии",
+  "system.user.user.privileges.placeholder": "Введите привелегии"
+}

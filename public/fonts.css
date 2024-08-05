@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'PT Sans';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/meta/aiassistant/fonts/PTSans-Regular.ttf');
+}
+
+/*@font-face {*/
+/*    font-family: 'SB Sans Display';*/
+/*    font-weight: normal;*/
+/*    font-style: normal;*/
+/*    src: local('SB Sans Display'), local('SB Sans Display-Regular'), url('/fonts/SBSansDisplay/SBSansDisplay-Regular.woff2')  format("woff2");*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'SB Sans Text';*/
+/*    font-weight: normal;*/
+/*    font-style: normal;*/
+/*    src: url('/meta/fonts/PTSans-Regular.ttf');*/
+/*}*/

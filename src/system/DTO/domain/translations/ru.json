@@ -1,0 +1,5 @@
+{
+  "system.dto.list": "Список",
+  "system.dto.error.validation": "{dtoName}: валидация значения {value} поля {name} завершилась с {errorNumber, select, 1 {ошибкой} other {ошибками}}:{errorMessages}.",
+  "system.dto.error.creation": "Создание DTO завершилось с ошибкой:"
+}
